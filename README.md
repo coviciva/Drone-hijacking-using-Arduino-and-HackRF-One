@@ -29,7 +29,7 @@ Code for this attack is available in this repository.
 
 **Replay attack**
 
-![image](https://user-images.githubusercontent.com/48959368/108995799-e5116e80-769d-11eb-8ff0-e6a70e316b8e.png)
+![image](https://user-images.githubusercontent.com/48959368/108996890-41c15900-769f-11eb-9fdb-226a728ee0de.png)
 
 
 
