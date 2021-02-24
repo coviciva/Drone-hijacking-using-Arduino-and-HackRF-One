@@ -1,1 +1,1 @@
-# Drone-hijacking-using-Arduino-and-HackRf-One
+# Drone hijacking using Arduino and HackRf One
